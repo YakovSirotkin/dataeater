@@ -1,7 +1,7 @@
 # dataeater
 
 ## Model 
-This module is designed for gathering messages from many IoT devices. For sake of performance and simplicity this module 
+This module is designed for collecting messages from many IoT devices. For sake of performance and simplicity this module 
 is extremely lightweight. Scalability can be easily provided if we use several front-end servers and database instances. 
 All data processing should be organized in other modules. 
 
